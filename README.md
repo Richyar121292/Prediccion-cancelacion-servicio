@@ -14,7 +14,7 @@ Este proyecto desarrolla un modelo de aprendizaje automático para predecir la c
 
 <h3> 📂 Estructura del Proyecto </h3>
 
-📁 customer_churn_prediction  
+📁 Prediccion-cancelacion-servicio  
  ├── 📄 README.md  
  ├── 📁 data/ → Contiene los datos procesados  
  ├── 📁 notebooks/ → Jupyter notebooks con análisis exploratorio  
