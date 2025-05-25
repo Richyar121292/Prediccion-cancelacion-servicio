@@ -25,6 +25,7 @@ Este proyecto desarrolla un modelo de aprendizaje automático para predecir la c
 <br>
 
  <h3> 🛠️ Tecnologías Utilizadas </h3>
+ 
 - Python (Pandas, NumPy, Sci-Kit Learn)  
 - Visualización (Seaborn, Matplotlib)  
 - Modelado (Random Forest, XGBoost, Logistic Regression)  
