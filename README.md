@@ -16,7 +16,7 @@ Este proyecto desarrolla un modelo de aprendizaje automático para predecir la c
 
 📁 Prediccion-cancelacion-servicio  
  ├── 📄 README.md  
- ├── 📁 data/ → Contiene los datos procesados  
+ ├── 📁 data/ → Contiene los datos  
  ├── 📁 notebooks/ → Jupyter notebooks con análisis exploratorio  
  ├── 📁 models/ → Modelos entrenados  
  ├── 📄 requirements.txt → Dependencias necesarias  
