@@ -8,7 +8,8 @@ Modelo con AUC-ROC de 81%
 <br>
 
 <h3> 📝 Descripción </h3>
-Este proyecto desarrolla un modelo de aprendizaje automático para predecir la cancelación de clientes basado en características relevantes. Utiliza técnicas de análisis exploratorio de datos, ingeniería de características y modelos de clasificación para obtener una alta precisión en la predicción.
+
+Este proyecto desarrolla un modelo de **aprendizaje automático** para **predecir** la **cancelación de clientes** basado en características relevantes. Utiliza técnicas de análisis exploratorio de datos, ingeniería de características y modelos de clasificación para obtener una alta precisión en la predicción.
 
 <br>
 
