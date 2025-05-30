@@ -1,5 +1,5 @@
 # Prediccion-cancelacion-servicio
-Predicción de cancelación de servicio en un entorno multimodal
+Predicción de **cancelación de servicio en un entorno multimodal**
 <br>
 
 <h3> 📊 Predicción de Cancelación de Clientes </h3>
